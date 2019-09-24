@@ -4,13 +4,13 @@
     <list default="true" id="7b649577-d48c-4bf0-978a-0334ccb9c3f0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/seeds/EmployeesTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/EmployeesTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/components/Pagination.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/Pagination.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/index.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/index.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/api/employees.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/api/employees.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/components/Pagination.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/js/components/employees/EmployeeList.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/employees/EmployeeList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/components/employees/EmployeeListTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/employees/EmployeeListTable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

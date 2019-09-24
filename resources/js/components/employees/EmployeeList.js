@@ -3,7 +3,6 @@ import { Link } from "react-router-dom";
 import { connect } from "react-redux";
 import { fetchEmployees } from "../../actions";
 import EmployeeListTable from "./EmployeeListTable";
-import Pagination from "../Pagination";
 
 class EmployeeList extends React.Component {
   constructor(props) {
@@ -51,7 +50,6 @@ class EmployeeList extends React.Component {
           searchInput={this.state.searchInput}
           employees={this.props.employees}
         />
-        <Pagination />
       </div>
     );
   }
